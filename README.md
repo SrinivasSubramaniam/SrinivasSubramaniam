@@ -1,7 +1,12 @@
 # 👋 Hi , I'm Srinivas Subramaniam
 
 
-I am a full stack automation engineer. Concentrating on building strong base with data structure and algorithms. Love to solve problems using Two Pointers, Sliding Window, Binary Search and Brute Force. Love to explore various tools in the field of automation
+6+ years of experience in Test Automation. Concentrating on building strong base with data structure and algorithms. Love to solve problems using Two Pointers, Sliding Window, Binary Search and Brute Force. Keen learner in the field of QA automation
+
+Have good knowledge on Automotive Manufacturing and Logistics Domain – Dealer Management, Supply Chain Management, Financial Services.
+* Developed E2E Regression Suites for UI Automation using Selenium WebDriver (Java)
+* Designed framework around Protractor for a Angular based project
+* Developed Rest Assured Regression Suite for APIs
 
 
 ### 🛠 &nbsp;Tech Stack
