@@ -1,18 +1,40 @@
-- 👋 Hi, I’m Srinivas Subramaniam
-- 👀 I’m interested in Data Strucutre and Alogrithms
-- 🌱 I’m currently learning to solve problems with 
-- 💞️ I’m looking to collaborate with SDETs to learn and grow
-- 📫 How to reach me ssrini3@gmail.com
+# 👋 Hi , I'm Srinivas Subramaniam
 
-Hi, I'm Srini 👋🏽 👨🏽‍💻
-banner that says Srinivasan Sekar
 
-I'm a software engineer from India 🇮🇳 who is passionate about open-source, developing and releasing quality softwares in production, and building community. I've worked extensively on testing various Mobile and Web Applications. Specalised in designing quality strategy. I've spoken at various international conferences including SeleniumConf, AppiumConf, QuestForQuality, SLASSCOM, Belgrade Test Conference & FOSDEM.
+Currently i am working as a full stack automation engineer. Very much interested in learning Data Strucutre and Alogrithms. Love to explore various tools in the field of automation
 
-How to reach me: @srinivasanskr 📫
-Sharing updates on LinkedIn 💼
-Pronouns: He/him 👨🏽‍💻
-Ask me about anything 💬
+### 🛠 &nbsp;Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-e6e6e6?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-e6e6e6?style=for-the-badge&logo=Selenium)&nbsp;
+![TestNG](https://img.shields.io/badge/TestNG-e6e6e6?style=for-the-badge&logo=testng)&nbsp;
+![OpenShift](https://img.shields.io/badge/Opeshift-e6e6e6?style=for-the-badge&logo=redhatopenshift&logoColor=red)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-e6e6e6?style=for-the-badge&logo=javascript)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-e6e6e6?style=for-the-badge&logo=Postman)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-e6e6e6?style=for-the-badge&logo=Jenkins)&nbsp;
+![Maven](https://img.shields.io/badge/Maven-e6e6e6?style=for-the-badge&logo=maven)&nbsp;
+![Gradle](https://img.shields.io/badge/-Gradle-e6e6e6?style=for-the-badge&logo=gradle&logoColor=black)&nbsp;
+![Cucumber](https://img.shields.io/badge/Cucumber-e6e6e6?style=for-the-badge&logo=cucumber)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badget&logo=github)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/SrinivasSubramaniam">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SrinivasSubramaniam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SrinivasSubramaniam&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/srinivas-subramaniam-sdet/"><img src="https://img.shields.io/badge/Srinivas%20Subramaniam-blue?style=flag&logo=linkedin"/></a>
+<a href="mailto:ssrini3@gmail.com"><img src="https://img.shields.io/badge/Srinivas%20Subramaniam-white?style=flag&logo=gmail"/></a>
+</p>
+
 
 <!---
 SrinivasSubramaniam/SrinivasSubramaniam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
