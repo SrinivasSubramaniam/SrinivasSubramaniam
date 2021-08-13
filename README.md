@@ -1,7 +1,8 @@
 # 👋 Hi , I'm Srinivas Subramaniam
 
 
-Currently i am working as a full stack automation engineer. Very much interested in learning Data Strucutre and Alogrithms. Love to explore various tools in the field of automation
+I am a full stack automation engineer. Concentrating on building strong base with data structure and algorithms. Love to solve problems using Two Pointers, Sliding Window, Binary Search and Brute Force. Love to explore various tools in the field of automation
+
 
 ### 🛠 &nbsp;Tech Stack
 
