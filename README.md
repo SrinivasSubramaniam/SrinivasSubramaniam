@@ -15,7 +15,6 @@ Have good knowledge on Automotive Manufacturing and Logistics Domain – Dealer 
 ![Selenium](https://img.shields.io/badge/-Selenium-e6e6e6?style=flat&logo=Selenium)&nbsp;
 ![TestNG](https://img.shields.io/badge/TestNG-e6e6e6?style=flat&logo=testng)&nbsp;
 ![OpenShift](https://img.shields.io/badge/Opeshift-e6e6e6?style=flat&logo=redhatopenshift&logoColor=red)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-e6e6e6?style=flat&logo=javascript)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-e6e6e6?style=flat&logo=Postman)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-e6e6e6?style=flat&logo=Jenkins)&nbsp;
 ![Maven](https://img.shields.io/badge/Maven-e6e6e6?style=flat&logo=maven)&nbsp;
