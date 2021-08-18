@@ -35,7 +35,7 @@ Have good knowledge on Automotive Manufacturing and Logistics Domain – Dealer 
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/srinivas-subramaniam-sdet/"><img src="https://img.shields.io/badge/Srinivas%20Subramaniam-blue?style=flag&logo=linkedin"/></a>
 <a href="mailto:ssrini3@gmail.com"><img src="https://img.shields.io/badge/Srinivas%20Subramaniam-white?style=flag&logo=gmail"/></a>
 </p>
